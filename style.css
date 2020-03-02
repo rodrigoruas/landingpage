@@ -1,0 +1,22 @@
+/*selector {
+  what: how;
+}
+*/
+
+
+
+
+body {
+  font-family: 'Roboto' sans-serif;
+}
+
+#banner {
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+}
+
+.feature {
+  margin-top: 25px;
+}
